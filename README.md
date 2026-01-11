@@ -11,7 +11,7 @@
 Bu Python programı, kullanıcıyla etkileşime girerek aldığı verileri (ad, biyografi, dersler) önceden tanımlanmış bir HTML şablonuna işler. Sonuç olarak, kullanıcının bilgilerini içeren, stil verilmiş (CSS içeren) bir index.html dosyası oluşturur. Bu, web sayfalarının temel yapısını ve dinamik içerik oluşturma mantığını basit bir seviyede gösterir.
 
 ### Kullanılan Kütüphaneler
-**Standart Python Kütüphaneleri:** Bu projede harici bir kütüphane kurulumuna (pip install vb.) gerek duyulmamıştır. Python'un temel `input-output` (giriş-çıkış) ve `file handling` (dosya yönetimi) özellikleri kullanılmıştır.
+**Standart Python Kütüphaneleri:** Bu projede harici bir kütüphane kurulumuna (pip install vb.) gerek duyulmamıştır. Python'un temel input-output (giriş-çıkış) ve file handling (dosya yönetimi) özellikleri kullanılmıştır.
 
 ### Algoritma Mantığı
 Programın çalışma algoritması şu adımlardan oluşur:
